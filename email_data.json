@@ -1,0 +1,8 @@
+{
+    "from": "sharmakshitij48@gmail.com",
+    "to": ["1719kshitij@gmail.com"],
+    "cc": ["1719kshitij@gmail.com"],
+    "bcc": ["1719kshitij@gmail.com"],
+    "subject": "Test Email",
+    "body": "Failure Report."
+}
