@@ -74,6 +74,6 @@ send_email(
     smtp_server='smtp.gmail.com',
     smtp_port=465,
     smtp_user='sharmakshitij48@gmail.com',
-    smtp_password="tdye giwa ounx wuvp",
+    smtp_password="your pass",
     dataframe=df,
 )
